@@ -1,16 +1,1 @@
-* {margin: 0;padding: 0;}
 
-body{font-family: 'Lato', sans-serif;}
-
-#page {
-    background: whitesmoke;
-    color: #27aae1;  
-    
-    padding: 30px;
-    
-    min-width: 600px;
-    margin: 50px auto;
-    width: 60%;
-    min-height: 200px;
-   
-}
